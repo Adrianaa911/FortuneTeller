@@ -34,4 +34,5 @@ magicBall.addEventListener("click", function(){
     magicBall.className='magicBall_out'
     }, 3000)
 })
+
 console.log();
